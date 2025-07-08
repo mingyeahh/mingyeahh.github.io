@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-If you’ve stumbled here, congrats—you’ve found the internet’s most exclusive ‘Under Construction’ party! 🎉
+Hi Hi! Hope you are doing well! If you came across this site, it should be purely by accident - you’ve found the internet’s most exclusive ‘Under Construction’ party! 🎉
 
-The site administrator (me) is currently optimizing sleep efficiency (see also: avoiding responsibilities with alarming precision).
+The site administrator (me) is currently optimising sleep efficiency (see also: avoiding responsibilities with alarming precision).
 
-Statistical probability suggests you have better things to do than watch this page accumulate HTTP dust. Go forth. Live your life. (Before I enter another guilt-driven coding sprint.)
+Statistical probability suggests you have better things to do than watch this page accumulate HTTP dust. Go forth. Live your life. (Before I enter another guilt-driven writing/coding sprint.)

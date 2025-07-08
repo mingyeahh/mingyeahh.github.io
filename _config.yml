@@ -23,9 +23,9 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "mingyue.jpg"
-  name             : "Mingyue Jian (简明悦)"
-  pronouns         : "she/her"
-  bio              : "Cognitive Science/Multimodal Reasoning"
+  name             : "Mingyue Jian"
+  # pronouns         : "she/her"
+  bio              : "CogSci / Multimodal Reasoning"
   location         : "Shenzhen, China"
   # employer         : "Red Brick University"
   # uri              : # URL
